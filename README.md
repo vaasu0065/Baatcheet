@@ -107,18 +107,3 @@ BaatCheet is a real-time chat application built with modern web technologies to 
 2. Sign up or log in to start chatting.
 3. Customize your profile and use real-time messaging.
 
-## Future Enhancements
-
-- Fixing the Cloudinary payload size limit issue.
-- Allowing multiple profile picture updates.
-- Adding more features like group chats, read receipts, and advanced search functionality.
-
-## License
-
-This project is not open for use. It is a personal project created for showcasing skills on my resume and can be viewed for reference.
-
----
-
-### Contributors
-- Aditya Sahu
-
